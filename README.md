@@ -6,7 +6,8 @@
 ![alt-text-1](solverdemo.gif)
 
 ## Fly Population Model
-- Simulates greenly populations
+- Simulates greenfly populations
+- Tracks juveniles, adults, seniles
 
 ![alt-text-1](greenflydemo.gif) 
 
