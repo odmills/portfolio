@@ -1,6 +1,6 @@
 # Oliver David Mills
 ## Number Puzzle Solver
-- GCSE Computer Science project  
+- Thing 
 
 ![alt-text-1](solverdemo.gif)
 
