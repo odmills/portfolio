@@ -1,7 +1,7 @@
 # Oliver David Mills
 ## Number Puzzle Solver
 - Tkinter based GUI application
-- Calculates target with 4 numbers
+- Finds solution equal to target
 
 ![alt-text-1](solverdemo.gif)
 
