@@ -1,6 +1,6 @@
 # Oliver David Mills
 ## Number Puzzle Solver
-- GCSE Computer Science project
+- GCSE Computer Science project  
 ![alt-text-1](solverdemo.gif)
 ## Greenfly Population Model
 ![alt-text-1](greenflydemo.gif) 
