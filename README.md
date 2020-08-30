@@ -2,8 +2,8 @@
 ## Number Puzzle Solver
 - GCSE Computer Science project  
 - First
-![alt-text-1](solverdemo.gif)
 
+![alt-text-1](solverdemo.gif)
 ## Greenfly Population Model
 ![alt-text-1](greenflydemo.gif) 
 ## Treasure Hunting Game
