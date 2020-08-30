@@ -6,6 +6,7 @@
 ![alt-text-1](solverdemo.gif)
 
 ## Fly Population Model
+- Python CLI application
 - Simulates greenfly populations
 - Tracks juveniles, adults, seniles
 - Can set birth rate, survival rate
