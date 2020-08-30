@@ -1,6 +1,6 @@
 # Oliver David Mills
 ## Number Puzzle Solver
-![alt-text-1](solverdemo.gif) 
+![alt-text-1](solverdemo.gif) This is 
 ## Greenfly Population Model
 ![alt-text-1](greenflydemo.gif) 
 ## Treasure Hunting Game
