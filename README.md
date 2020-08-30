@@ -9,6 +9,7 @@
 - Simulates greenfly populations
 - Tracks juveniles, adults, seniles
 - Can set birth rate, survival rate
+- Data exportable to text file
 
 ![alt-text-1](greenflydemo.gif) 
 
