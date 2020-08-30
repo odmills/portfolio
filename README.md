@@ -6,7 +6,7 @@
 ![alt-text-1](solverdemo.gif)
 
 ## Fly Population Model
-- Thing
+- Simulates greenly populations
 
 ![alt-text-1](greenflydemo.gif) 
 
