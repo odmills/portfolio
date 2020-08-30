@@ -11,7 +11,7 @@
 - Tracks juveniles, adults, seniles
 - Can set birth rate, survival rate
 - Random disease factor option
-- Data is exportable to text files
+- Data is exportable to text file
 
 ![alt-text-1](greenflydemo.gif) 
 
