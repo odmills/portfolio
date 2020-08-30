@@ -9,7 +9,7 @@
 
 ![alt-text-1](greenflydemo.gif) 
 
-## Treasure Hunting Game
+## Treasure Hunter Game
 - Thing
 
 ![alt-text-1](treasuredemo.gif) 
