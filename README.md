@@ -5,4 +5,5 @@
 ![alt-text-1](platformdemo.gif) ![alt-text-1](platformcode.gif)  
 ![alt-text-1](model1demo.png) ![alt-text-1](model1code.PNG)  
 ![alt-text-1](model2demo.png) ![alt-text-1](model2code.PNG)  
-![alt-text-1](model3demo.gif) 
+![alt-text-1](model3demo.gif) ![alt-text-1](model3code.gif)  
+
