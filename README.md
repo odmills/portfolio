@@ -1,6 +1,6 @@
 # Oliver David Mills
 ## Number Puzzle Solver
-- Tkinter based GUI 
+- Tkinter based GUI application
 
 ![alt-text-1](solverdemo.gif)
 
