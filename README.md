@@ -10,7 +10,7 @@
 - Tracks juveniles, adults, seniles
 - Can set birth rate, survival rate
 - Data exportable to a text file
-- Random disease trigger option
+- Random disease factor option
 
 ![alt-text-1](greenflydemo.gif) 
 
