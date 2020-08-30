@@ -8,7 +8,7 @@
 ## Fly Population Model
 - Simulates greenfly populations
 - Tracks juveniles, adults, seniles
-- Can set birthrate, survival rate
+- Can set birth rate, survival rate
 
 ![alt-text-1](greenflydemo.gif) 
 
