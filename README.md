@@ -1,6 +1,6 @@
 # Oliver David Mills
 ## Number Puzzle Solver
-- Thing 
+- Tkinter based GUI 
 
 ![alt-text-1](solverdemo.gif)
 
