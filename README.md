@@ -4,7 +4,7 @@
 
 ![alt-text-1](solverdemo.gif)
 
-## Greenfly Population Model
+## Fly Population Model
 - Thing
 
 ![alt-text-1](greenflydemo.gif) 
