@@ -10,8 +10,8 @@
 - Simulates greenfly population
 - Tracks juveniles, adults, seniles
 - Can set birth rate, survival rate
-- Data is exportable to text files
 - Random disease factor option
+- Data is exportable to text files
 
 ![alt-text-1](greenflydemo.gif) 
 
