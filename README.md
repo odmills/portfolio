@@ -24,7 +24,7 @@
 ![alt-text-1](treasuredemo.gif) 
 
 ## 2D Platformer
-- PyGame based game with multiple levels
+- PyGame coursework project
 
 ![alt-text-1](platformdemo.gif) 
 
