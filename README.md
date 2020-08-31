@@ -42,8 +42,9 @@
 ![alt-text-1](model1demo.gif) 
 
 ## Health Data Analysis
-- Large dataset R coursework
+- Large dataset coursework
 - Goal to find trends in data
+- Using R Studio environment
 - Exploratory data analysis
 - Practicing different plots
 
