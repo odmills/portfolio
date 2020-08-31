@@ -18,8 +18,8 @@
 
 ## Treasure Hunter Game
 - Get chests and avoid bandits
+- Custom rules can be used
 - Objects are placed randomly
-- Can create custom games
 
 ![alt-text-1](treasuredemo.gif) 
 
