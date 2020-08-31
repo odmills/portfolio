@@ -34,8 +34,8 @@
 ![alt-text-1](platformdemo.gif) 
 
 ## 1D Particle Movement
+- Plots the particle positions
 - MATLAB course assignment
-- Plots the particle position
 - Works out numerical error
 
 ![alt-text-1](model1demo.gif) 
