@@ -28,6 +28,7 @@
 - Levels stored in text file
 - Object-oriented programming
 - Encrypted sorted leaderboard
+- Pathfinding algorithm
 
 
 ![alt-text-1](platformdemo.gif) 
