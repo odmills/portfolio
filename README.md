@@ -59,6 +59,11 @@
 ![alt-text-1](model3demo.gif) 
 
 ## Rainfall Data Analysis
-- Thing
+- Fitted models to data
+- Simulated model results
+- Compared to real data
+- Plotted graphs of both
+- Conclusion from results
+- Statistics project in R
 
 ![alt-text-1](raindemo.gif)
