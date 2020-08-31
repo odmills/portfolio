@@ -34,7 +34,7 @@
 ![alt-text-1](platformdemo.gif) 
 
 ## 1D Particle Movement
-- Plots particle position
+- MATLAB course assignment
 - Works out numerical error
 - Received 100/100 mark
 
