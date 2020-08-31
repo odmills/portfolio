@@ -43,6 +43,7 @@
 
 ## Health Data Analysis
 - Large dataset R coursework
+- Goal to find trends in data
 
 ![alt-text-1](healthdemo.gif)  
 
