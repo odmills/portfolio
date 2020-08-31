@@ -23,7 +23,7 @@
 
 ![alt-text-1](treasuredemo.gif) 
 
-## Platformer Game
+## 2D Platformer
 - Thing
 
 ![alt-text-1](platformdemo.gif) 
