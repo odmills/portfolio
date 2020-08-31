@@ -52,7 +52,7 @@
 ![alt-text-1](healthdemo.gif)  
 
 ## Population Modelling
-- Thing
+- Computing populations in MATLAB
 
 ![alt-text-1](model3demo.gif) 
 
