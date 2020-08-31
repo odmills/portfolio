@@ -17,7 +17,7 @@
 ![alt-text-1](greenflydemo.gif) 
 
 ## Treasure Hunter Game
-- Goal is to collect gold
+- Collect gold and avoid bandits
 
 ![alt-text-1](treasuredemo.gif) 
 
