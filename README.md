@@ -44,6 +44,7 @@
 ## Health Data Analysis
 - Large dataset R coursework
 - Goal to find trends in data
+- Performed exploratory analysis
 
 ![alt-text-1](healthdemo.gif)  
 
