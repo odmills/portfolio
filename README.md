@@ -17,7 +17,8 @@
 ![alt-text-1](greenflydemo.gif) 
 
 ## Treasure Hunter Game
-- Collect gold and avoid bandits
+- Get chests and avoid bandits
+- Objects are placed randomly
 
 ![alt-text-1](treasuredemo.gif) 
 
