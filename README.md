@@ -52,7 +52,8 @@
 ![alt-text-1](healthdemo.gif)  
 
 ## Predator-Prey Modelling
-- Computing populations in MATLAB
+- MATLAB population computing
+- Worked out stable scenarios
 
 ![alt-text-1](model3demo.gif) 
 
