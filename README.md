@@ -52,8 +52,8 @@
 ![alt-text-1](healthdemo.gif)  
 
 ## Predator-Prey Modelling
-- MATLAB population computing
 - Worked out stable scenarios
+- MATLAB population dynamics
 - Classified equilibrium points
 
 ![alt-text-1](model3demo.gif) 
