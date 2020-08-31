@@ -1,7 +1,7 @@
 # Oliver David Mills
 ## Number Puzzle Solver
 - Tkinter based GUI application
-- Stuff
+- Similar to countdown numbers
 - Finds solution equal to target
 
 ![alt-text-1](solverdemo.gif)
