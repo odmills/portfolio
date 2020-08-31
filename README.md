@@ -42,10 +42,11 @@
 ![alt-text-1](model1demo.gif) 
 
 ## Health Data Analysis
+- Exploratory data analysis
 - Large dataset coursework
 - Goal to find trends in data
 - Used RStudio environment
-- Exploratory data analysis
+- t
 - Practicing different plots
 
 ![alt-text-1](healthdemo.gif)  
