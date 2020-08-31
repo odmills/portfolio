@@ -25,7 +25,7 @@
 
 ## 2D Platformer
 - PyGame coursework project
-- Object-oriented approach
+- Object-oriented programming
 
 
 ![alt-text-1](platformdemo.gif) 
