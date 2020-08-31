@@ -29,7 +29,7 @@
 - Level layouts stored in text file
 - Object-oriented programming
 - Encrypted sorted leaderboard
-- Calculates gravity/collisions
+- Calculates physics/collisions
 
 ![alt-text-1](platformdemo.gif) 
 
