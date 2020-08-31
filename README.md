@@ -1,7 +1,7 @@
 # Oliver David Mills
 ## Number Puzzle Solver
 - Tkinter based GUI application
-- Operaters can include +,-,*,/,**
+- All numbers must be used
 - Finds solution equal to target
 
 ![alt-text-1](solverdemo.gif)
