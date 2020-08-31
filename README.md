@@ -42,7 +42,7 @@
 ![alt-text-1](model1demo.gif) 
 
 ## Health Data Analysis
-- Large dataset R courswork
+- Large dataset R coursework
 
 ![alt-text-1](healthdemo.gif)  
 
