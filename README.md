@@ -17,7 +17,7 @@
 ![alt-text-1](greenflydemo.gif) 
 
 ## Treasure Hunter Game
-- Thing
+- Goal is to collect gold
 
 ![alt-text-1](treasuredemo.gif) 
 
