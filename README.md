@@ -61,9 +61,9 @@
 ## Rainfall Data Analysis
 - Statistics project in R
 - Fitted models to data
-- Simulated model results
-- Compared to real data
+- Simulated model result
 - Plotted graphs of both
-- Conclusion from results
+- Compared to real data
+- Conclude from results
 
 ![alt-text-1](raindemo.gif)
