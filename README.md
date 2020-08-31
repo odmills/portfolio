@@ -23,13 +23,13 @@
 
 ![alt-text-1](treasuredemo.gif) 
 
-## 2D Platformer
+## 2D Platforming Game
 - PyGame coursework project
 - Enemy pathfinding algorithm
 - Level layouts stored in text file
 - Object-oriented programming
 - Encrypted sorted leaderboard
-- Calculates physics for objects
+- Calculates physics for player
 
 ![alt-text-1](platformdemo.gif) 
 
