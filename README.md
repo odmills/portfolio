@@ -25,10 +25,10 @@
 
 ## 2D Platforming Game
 - PyGame coursework project
-- Enemy pathfinding algorithm
+- Encrypted sorted leaderboard
 - Level layouts stored in text file
 - Object-oriented programming
-- Encrypted sorted leaderboard
+- Enemy pathfinding algorithm
 - Calculates physics for player
 
 ![alt-text-1](platformdemo.gif) 
