@@ -47,7 +47,7 @@
 - Goal to find trends in data
 - Used RStudio environment
 - Experience cleaning data
-- Practicing different plots
+- Practiced different plots
 
 ![alt-text-1](healthdemo.gif)  
 
