@@ -35,9 +35,8 @@
 
 ## 1D Particle Movement
 - MATLAB course assignment
-- Plots particle position
+- Plots the particle position
 - Works out numerical error
-- Received 100/100 grading
 
 ![alt-text-1](model1demo.gif) 
 
