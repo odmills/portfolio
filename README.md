@@ -33,7 +33,7 @@
 
 ![alt-text-1](platformdemo.gif) 
 
-## Particle Modelling
+## 1D Particle Movement
 - Thing
 
 ![alt-text-1](model1demo.gif) 
