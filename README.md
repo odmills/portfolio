@@ -25,11 +25,11 @@
 
 ## 2D Platformer
 - PyGame coursework project
-- Calculates physics for objects
+- Enemy pathfinding algorithm
 - Level layouts stored in text file
 - Object-oriented programming
 - Encrypted sorted leaderboard
-- Enemy pathfinding algorithm
+- Calculates physics for objects
 
 ![alt-text-1](platformdemo.gif) 
 
