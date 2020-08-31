@@ -46,7 +46,7 @@
 - Large dataset coursework
 - Goal to find trends in data
 - Used RStudio environment
-- Experience cleaning data
+- Used R for cleaning data
 - Practicing different plots
 
 ![alt-text-1](healthdemo.gif)  
