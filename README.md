@@ -25,7 +25,9 @@
 
 ## 2D Platformer
 - PyGame coursework project
+- Levels stored in text file
 - Object-oriented programming
+- Encrypted sorted leaderboard
 
 
 ![alt-text-1](platformdemo.gif) 
