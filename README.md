@@ -24,7 +24,7 @@
 ![alt-text-1](treasuredemo.gif) 
 
 ## 2D Platformer
-- Thing
+- PyGame based game with multiple levels
 
 ![alt-text-1](platformdemo.gif) 
 
