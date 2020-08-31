@@ -42,7 +42,7 @@
 ![alt-text-1](model1demo.gif) 
 
 ## Health Data Analysis
-- Thing
+- Large data set R project
 
 ![alt-text-1](healthdemo.gif)  
 
