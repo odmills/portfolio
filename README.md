@@ -36,7 +36,7 @@
 ## 1D Particle Movement
 - MATLAB course assignment
 - Works out numerical error
-- Received 100/100 mark
+- Received 100/100 grading
 
 ![alt-text-1](model1demo.gif) 
 
