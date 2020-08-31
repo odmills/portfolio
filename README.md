@@ -45,7 +45,7 @@
 - Large dataset R coursework
 - Goal to find trends in data
 - Exploratory data analysis
-- Practice different plots
+- Practicing different plots
 
 ![alt-text-1](healthdemo.gif)  
 
